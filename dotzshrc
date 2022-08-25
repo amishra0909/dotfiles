@@ -82,6 +82,7 @@ plugins=(
   sudo
   thor
   docker
+  colored-man-pages
 )
 
 source $ZSH/oh-my-zsh.sh
